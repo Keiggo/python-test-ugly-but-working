@@ -1,0 +1,65 @@
+[
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "35614e4a-d5c6-4798-9473-403dd2b9fd90",
+        "fields": {
+            "user": "1f1f867f-76c7-4855-9397-8f4c0edf74b8",
+            "location": null,
+            "role": "broker"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "4132410a-a3db-4916-a921-93dc2bf1285a",
+        "fields": {
+            "user": "e8d8330c-500a-44bf-abdb-debe53d4c006",
+            "location": "Chicago",
+            "role": "customer"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "499fb47d-25cb-40ce-96fa-9b1d314523c7",
+        "fields": {
+            "user": "c52fa37b-7df1-44c5-910d-7c5e6a03bc8a",
+            "location": "Kansas City",
+            "role": "supplier"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "63647f4b-bd7d-410a-8eb1-dde479dcd4df",
+        "fields": {
+            "user": "3e7e836f-df18-4b53-a77c-b787e7117633",
+            "location": "St Louis",
+            "role": "customer"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "86ce3c5a-4660-47cd-aed6-4b97574919a8",
+        "fields": {
+            "user": "d24cb10c-db3c-4bc9-90e7-9c6c7cd788e5",
+            "location": "Cincinatti",
+            "role": "customer"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "cbff4f74-11b3-4f3d-a1ec-e684db380e5c",
+        "fields": {
+            "user": "5d4e2075-ebae-4796-8994-b877bd0d738b",
+            "location": "Omaha",
+            "role": "supplier"
+        }
+    },
+    {
+        "model": "grains.grainsuserprofile",
+        "pk": "dc40b8e5-eae9-4bbf-b539-e236bcc0726d",
+        "fields": {
+            "user": "672f41dc-d5ea-458c-8924-0b8272ac312b",
+            "location": "Des Moines",
+            "role": "supplier"
+        }
+    }
+]

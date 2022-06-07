@@ -1,0 +1,29 @@
+[
+{
+    "model": "grains.supplier",
+    "pk": "15cc6d06-d62d-4dac-aec2-57788d951ddd",
+    "fields": {
+        "user": "dc40b8e5-eae9-4bbf-b539-e236bcc0726d",
+        "location": "Des Moines",
+        "supply_amount": 10000
+    }
+},
+{
+    "model": "grains.supplier",
+    "pk": "638d19ef-9372-4f4b-942c-875320c8f1ce",
+    "fields": {
+        "user": "499fb47d-25cb-40ce-96fa-9b1d314523c7",
+        "location": "Kansas City",
+        "supply_amount": 10000
+    }
+},
+{
+    "model": "grains.supplier",
+    "pk": "8d6b1624-1897-4a02-a76f-9b97bc20eaef",
+    "fields": {
+        "user": "cbff4f74-11b3-4f3d-a1ec-e684db380e5c",
+        "location": "Omaha",
+        "supply_amount": 10000
+    }
+}
+]

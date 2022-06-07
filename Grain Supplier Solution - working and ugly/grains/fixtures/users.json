@@ -1,0 +1,138 @@
+[
+    {
+        "model": "core.user",
+        "pk": "1f1f867f-76c7-4855-9397-8f4c0edf74b8",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$mSHsXR2bAUcuI5SQvrJOgb$uCIYDx2XJxSdd4gyt0QKKG9OmnvbTydm0TXR9FfXIlg=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Broker",
+            "last_name": "One",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:41:05.742Z",
+            "email": "broker@one.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "3e7e836f-df18-4b53-a77c-b787e7117633",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$nCAr590pQNCMbGqckhPqs0$n8vBJSDqL34eMEdAZs6vytd44q9ri1HXLRCQdkoii0Y=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Customer",
+            "last_name": "St Louis",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:42:00.653Z",
+            "email": "customer@stlouis.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "5d4e2075-ebae-4796-8994-b877bd0d738b",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$oE1fMtM0AizUaDdV6HdAqZ$A7WhvOoeMv0GmehcODBHIgsaeur+hbAXScS+mmXSY9I=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Supplier",
+            "last_name": "Omaha",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:43:46.995Z",
+            "email": "supplier@omaha.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "672f41dc-d5ea-458c-8924-0b8272ac312b",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$mBUT8y8g8M2ygW3xSr7Sqc$zhJo4G5ULnPK9zq7hQUcvgECJuVSpp1yLhkLO22lork=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Supplier",
+            "last_name": "Des Moines",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:44:40.506Z",
+            "email": "supplier@desmoines.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "c52fa37b-7df1-44c5-910d-7c5e6a03bc8a",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$Gaj4bK80urVWT0NUdJqMQK$5NGiguBltMSMf5+k33Y4eAtXQketcv8QzJNTV49Yh5g=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Supplier",
+            "last_name": "Kansas City",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:44:10.559Z",
+            "email": "supplier@kansascity.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "cf80e92d-0726-4857-aecc-074c2b09a870",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$UPfu22TP3PBlz4NQosbDm8$Z8eJD06sRn0+0XXJ2iN6pZdfcARc21Z2Mg3WJujHm3s=",
+            "last_login": "2022-01-28T22:40:37.319Z",
+            "is_superuser": true,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:40:19.020Z",
+            "email": "admin@admin.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "d24cb10c-db3c-4bc9-90e7-9c6c7cd788e5",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$Otr8anfxm8vCkPhBwZss0w$O5IcTF14PADKV+gMUJFUthl+WDa+yiZrIC5LLx+rTFo=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Customer",
+            "last_name": "Cincinatti",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:41:31.140Z",
+            "email": "customer@cincinatti.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "core.user",
+        "pk": "e8d8330c-500a-44bf-abdb-debe53d4c006",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$VVaEHk312Nu9Wg2jC4n1fD$MQeZwUrubugASPON73MUWn2WeQJDF+eZnsesKqe5bPc=",
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "Customer",
+            "last_name": "Chicago",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2022-01-28T22:42:20.520Z",
+            "email": "customer@chicago.com",
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]
